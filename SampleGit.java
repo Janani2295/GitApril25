@@ -8,14 +8,14 @@ public class SampleGit {
 	private void b_method() {
 		// TODO Auto-generated method stub
 
-	} //Tester2
+	} //Tester1
 	
-	private void functionaltesting() {
+	private void java() {
 		// TODO Auto-generated method stub
 
 	}
 	
-	private void nonfunctionaltesting() {
+	private void selenium() {
 		// TODO Auto-generated method stub
 
 	}
